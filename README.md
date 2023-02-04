@@ -42,6 +42,18 @@ The Arduino IDE needs the following packages installed either manually or throug
 - [Adafruit_MLX90614](https://github.com/adafruit/Adafruit-MLX90614-Library)
 - [SSD1306Ascii](https://github.com/greiman/SSD1306Ascii)
 
+## Circuit Diagram
+
+<br/>
+
+![Circuit Diagram-1](https://user-images.githubusercontent.com/67030839/216771739-80824350-5279-431d-8755-64f6d53568ba.JPG)
+
+<br/>
+
+![Circuit Diagram-2](https://user-images.githubusercontent.com/67030839/216771765-3963b5f9-5871-4327-9e46-ab411eee5de6.png)
+
+
+
 ## Authors
 
 <table>
